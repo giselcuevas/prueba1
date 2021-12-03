@@ -1,0 +1,26 @@
+[33mcommit 9497cfd9ff8c9dcc05771f0a6885340b1ecdede4[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: giselcuevas <giselcvs@gmail.com>
+Date:   Fri Dec 3 15:01:54 2021 -0300
+
+    mi segundo commit local
+
+[33mcommit f60696ab57251f1396369acdd32412e24b1e6222[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 95cc683 9910ece
+Author: Gisel <56962993+giselcuevas@users.noreply.github.com>
+Date:   Thu Nov 25 18:44:05 2021 -0300
+
+    Merge pull request #3 from giselcuevas/develop
+    
+    Update prueba1.html
+
+[33mcommit 9910ece56ccf59f8d8cc34d556f07cfd1308842d[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Gisel <56962993+giselcuevas@users.noreply.github.com>
+Date:   Thu Nov 25 18:42:51 2021 -0300
+
+    Update prueba1.html
+
+[33mcommit 95cc68391edc7034e3083ee14682ff6d71932a32[m
+Author: giselcuevas <giselcvs@gmail.com>
+Date:   Thu Nov 25 18:31:35 2021 -0300
+
+    Primer Commit
